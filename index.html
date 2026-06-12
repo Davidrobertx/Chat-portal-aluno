@@ -5,48 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Sofia - Chat Portal do Aluno</title>
   <style>
-    body {
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: #f4f7f5;
-      color: #17211a;
-    }
-    .hero {
-      min-height: 100vh;
-      display: grid;
-      place-items: center;
-      padding: 40px 20px;
-      text-align: center;
-    }
-    .card {
-      max-width: 760px;
-      background: #fff;
-      border-radius: 28px;
-      padding: 48px;
-      box-shadow: 0 20px 70px rgba(0,0,0,.08);
-    }
-    h1 {
-      margin: 0 0 14px;
-      font-size: clamp(32px, 5vw, 56px);
-      color: #078C36;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.6;
-      margin: 0;
-    }
+    body { margin:0; font-family: Arial, Helvetica, sans-serif; background:#eef0ef; color:#17211a; }
+    .hero { min-height:100vh; display:grid; place-items:center; padding:40px 20px; text-align:center; }
+    .card { max-width:760px; background:#fff; border-radius:28px; padding:48px; box-shadow:0 20px 70px rgba(0,0,0,.08); }
+    h1 { margin:0 0 14px; font-size:clamp(32px,5vw,56px); color:#078C36; }
+    p { font-size:18px; line-height:1.6; margin:0; }
   </style>
 </head>
 <body>
   <main class="hero">
     <section class="card">
       <h1>Sofia - Chat Portal do Aluno</h1>
-      <p>
-        Clique na imagem flutuante da Sofia no canto inferior da tela para abrir o atendimento virtual.
-      </p>
+      <p>Clique na imagem flutuante da Sofia no canto inferior da tela para abrir o atendimento virtual.</p>
     </section>
   </main>
-
   <script>
     window.PortalAlunoChatConfig = {
       titulo: "Sofia",
@@ -56,15 +28,13 @@
       textoWhatsapp: "Olá! Preciso de ajuda com o Portal do Aluno.",
       respostasUrl: "./respostas.json",
       imagemLauncher: "./sofia-avatar.png",
-      corPrincipal: "#25D366",
-      corCabecalho: "#0B5CFF",
-      corOpcoes: "#0B5CFF",
+      corPrincipal: "#0c8c36",
+      corChips: "#f5fff8",
       textoBolha: "Como posso te ajudar?",
-      distanciaDireita: "32px",
-      distanciaInferior: "32px"
+      distanciaDireita: "28px",
+      distanciaInferior: "28px"
     };
   </script>
-
   <script src="./widget.js"></script>
 </body>
 </html>
