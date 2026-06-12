@@ -1,124 +1,32 @@
-# Chat Portal do Aluno com ícone flutuante estilo WhatsApp
+# Sofia - Chat Portal do Aluno
 
-Este projeto cria um chat simples para site, com:
+Atualizações desta versão:
 
-- Ícone flutuante estilo WhatsApp no canto inferior da página;
-- Pop-up de conversa ao clicar no ícone;
-- Banco de respostas em JSON;
-- Respostas controladas por você;
-- Botão de encaminhamento para WhatsApp da tutoria quando o chat não souber responder;
-- Compatível com GitHub Pages e incorporação no GreatPages.
+- A imagem enviada da Sofia foi aplicada no botão flutuante.
+- O botão flutuante agora exibe um balão acima com o texto: "Como posso te ajudar?".
+- A mensagem inicial do chat foi alterada para:
+  "Olá, eu sou Sofia! Posso ajudar com dúvidas sobre acesso, senha, AVA, avaliações e serviços acadêmicos e muito mais."
+- O ícone continua no canto inferior direito da tela.
+- O chat se chama Sofia.
 
 ## Arquivos
 
 ```text
-chat-portal-aluno-greatpages-whatsapp-popup/
+chat-sofia
 ├── index.html
 ├── widget.js
 ├── respostas.json
 ├── codigo-para-greatpages.html
+├── sofia-avatar.png
 └── README.md
 ```
 
-## Como configurar o WhatsApp
+## Importante
 
-No arquivo `index.html` e no código que será colado no GreatPages, troque:
-
-```js
-whatsapp: "5581999999999"
-```
-
-Pelo número da tutoria com código do Brasil + DDD + número.
-
-Exemplo:
-
-```js
-whatsapp: "5581999999999"
-```
-
-## Como editar as respostas
-
-Abra o arquivo `respostas.json`.
-
-Cada resposta segue este modelo:
-
-```json
-{
-  "id": "acesso-portal",
-  "categoria": "Acesso",
-  "titulo": "Como acessar o Portal do Aluno?",
-  "perguntas": [
-    "como acessar o portal do aluno",
-    "onde acesso o portal",
-    "portal do aluno"
-  ],
-  "resposta": "Texto da resposta que o aluno vai receber."
-}
-```
-
-## Como publicar no GitHub Pages
-
-1. Crie um repositório público no GitHub.
-2. Envie os arquivos para a raiz do repositório.
-3. Vá em `Settings`.
-4. Clique em `Pages`.
-5. Em `Build and deployment`, selecione:
-   - Source: Deploy from a branch
-   - Branch: main
-   - Folder: /root
-6. Salve e aguarde o link ser gerado.
-
-O link ficará parecido com:
+Para esta versão funcionar, você também precisa subir o arquivo:
 
 ```text
-https://seu-usuario.github.io/nome-do-repositorio/
+sofia-avatar.png
 ```
 
-## Como inserir no GreatPages
-
-Depois de publicar no GitHub Pages, use o conteúdo do arquivo `codigo-para-greatpages.html`.
-
-Exemplo:
-
-```html
-<script>
-  window.PortalAlunoChatConfig = {
-    titulo: "Assistente do Portal do Aluno",
-    subtitulo: "Acesso, AVA, avaliações e tutoria",
-    whatsapp: "5581999999999",
-    textoWhatsapp: "Olá! Preciso de ajuda com o Portal do Aluno.",
-    respostasUrl: "https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/respostas.json",
-    corPrincipal: "#25D366",
-    corCabecalho: "#078C36",
-    textoBolha: "Precisa de ajuda?"
-  };
-</script>
-
-<script src="https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/widget.js"></script>
-```
-
-Troque:
-
-- `SEU-USUARIO`;
-- `NOME-DO-REPOSITORIO`;
-- `5581999999999`.
-
-## Como mudar o texto da bolha
-
-Altere:
-
-```js
-textoBolha: "Precisa de ajuda?"
-```
-
-Exemplos:
-
-```js
-textoBolha: "Fale conosco"
-textoBolha: "Ajuda acadêmica"
-textoBolha: "Atendimento"
-```
-
-## Observação
-
-O `respostas.json` ficará público no GitHub Pages. Use apenas respostas institucionais simples e não coloque dados sensíveis.
+para o GitHub junto com os outros arquivos.
