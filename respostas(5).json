@@ -1,0 +1,239 @@
+[
+  {
+    "id": "acesso-portal",
+    "categoria": "Portal do Aluno",
+    "titulo": "Acessar Portal do Aluno",
+    "perguntas": [
+      "portal do aluno",
+      "link do portal do aluno",
+      "qual o link do portal",
+      "como acessar o portal do aluno",
+      "onde acesso o portal",
+      "entrar no portal do aluno",
+      "acesso ao portal",
+      "não consigo acessar o portal"
+    ],
+    "resposta": "Você pode acessar o Portal do Aluno pelo link:\n\nhttps://aluno.sereduc.com/\n\nUtilize seus dados de acesso cadastrados. Caso tenha dificuldade com a senha, clique em “Esqueci minha senha” na tela de login."
+  },
+  {
+    "id": "recuperar-senha",
+    "categoria": "Senha",
+    "titulo": "Esqueci minha senha",
+    "perguntas": [
+      "esqueci minha senha",
+      "recuperar senha",
+      "não lembro minha senha",
+      "senha do portal",
+      "trocar senha",
+      "redefinir senha",
+      "não consigo entrar"
+    ],
+    "resposta": "Na tela de login do Portal do Aluno, clique em “Esqueci minha senha” e siga as orientações para redefinir seu acesso.\n\nAcesse pelo link:\nhttps://aluno.sereduc.com/\n\nCaso não consiga concluir a recuperação, fale com a tutoria acadêmica."
+  },
+  {
+    "id": "acesso-ava",
+    "categoria": "AVA / Ser Connect",
+    "titulo": "Acessar AVA / Ser Connect",
+    "perguntas": [
+      "como acessar o ava",
+      "como acessar o ser connect",
+      "onde encontro o ava",
+      "ambiente virtual",
+      "ser connect",
+      "acessar aulas",
+      "acessar plataforma",
+      "onde ficam minhas aulas"
+    ],
+    "resposta": "Para acessar o AVA / Ser Connect, entre primeiro no Portal do Aluno:\n\nhttps://aluno.sereduc.com/\n\nDepois, localize a área de disciplinas ou ambiente de estudos. Nessa área, você poderá acessar aulas, materiais, atividades, avaliações e avisos."
+  },
+  {
+    "id": "disciplinas",
+    "categoria": "Disciplinas",
+    "titulo": "Ver minhas disciplinas",
+    "perguntas": [
+      "onde vejo minhas disciplinas",
+      "minhas disciplinas",
+      "disciplinas disponíveis",
+      "não aparece disciplina",
+      "cade minhas disciplinas",
+      "curso não aparece",
+      "disciplinas do curso"
+    ],
+    "resposta": "As disciplinas ficam disponíveis no Portal do Aluno, na área do AVA / Ser Connect.\n\nAcesse:\nhttps://aluno.sereduc.com/\n\nNessa seção, você poderá visualizar disciplinas em andamento, conteúdos, avaliações, avisos e materiais complementares."
+  },
+  {
+    "id": "notas",
+    "categoria": "Notas e desempenho",
+    "titulo": "Ver minhas notas",
+    "perguntas": [
+      "onde vejo minhas notas",
+      "ver notas",
+      "minhas notas",
+      "meu desempenho",
+      "resultado da avaliação",
+      "nota da prova",
+      "nota da av2",
+      "boletim"
+    ],
+    "resposta": "Você pode consultar suas notas na área de desempenho ou avaliações dentro do Portal do Aluno / AVA.\n\nAcesse:\nhttps://aluno.sereduc.com/\n\nLá ficam disponíveis informações sobre atividades, avaliações realizadas, pendências e desempenho acadêmico."
+  },
+  {
+    "id": "avaliacoes",
+    "categoria": "Avaliações",
+    "titulo": "Acessar avaliações",
+    "perguntas": [
+      "onde faço avaliação",
+      "onde faço a prova",
+      "como acessar avaliação",
+      "av1",
+      "av2",
+      "af",
+      "prova online",
+      "central de provas",
+      "prova fácil",
+      "prova facil"
+    ],
+    "resposta": "As avaliações ficam disponíveis na área de Avaliação do AVA / Ser Connect.\n\nAcesse o Portal do Aluno:\nhttps://aluno.sereduc.com/\n\nVerifique o período de realização, leia as orientações com atenção e acesse a avaliação dentro do prazo informado."
+  },
+  {
+    "id": "biblioteca",
+    "categoria": "Biblioteca",
+    "titulo": "Acessar materiais e biblioteca",
+    "perguntas": [
+      "onde encontro material",
+      "material complementar",
+      "biblioteca",
+      "e-book",
+      "ebook",
+      "livro digital",
+      "baixar material",
+      "conteúdo da disciplina",
+      "material da disciplina"
+    ],
+    "resposta": "Os materiais da disciplina podem ser acessados no AVA / Ser Connect, geralmente na área de Conteúdo ou Biblioteca.\n\nAcesse pelo Portal do Aluno:\nhttps://aluno.sereduc.com/\n\nNessa seção, você encontra materiais complementares, e-books e outros recursos de apoio aos estudos."
+  },
+  {
+    "id": "vendas-generico",
+    "categoria": "Página de vendas",
+    "titulo": "Página de vendas",
+    "perguntas": [
+      "página de vendas",
+      "pagina de vendas",
+      "link da instituição",
+      "link da instituicao",
+      "site da instituição",
+      "site da instituicao",
+      "quero o link do site",
+      "quero o link de vendas"
+    ],
+    "resposta": "Me informe de qual instituição você deseja o link: UNINASSAU, UNAMA, UNG, FAEL ou UNINORTE.",
+    "mostrarOpcao": false
+  },
+  {
+    "id": "vendas-uninassau",
+    "categoria": "Página de vendas",
+    "titulo": "Página de vendas UNINASSAU",
+    "perguntas": [
+      "link da uninassau",
+      "site da uninassau",
+      "página de vendas uninassau",
+      "pagina de vendas uninassau",
+      "quero estudar na uninassau",
+      "cursos uninassau",
+      "inscrição uninassau",
+      "matrícula uninassau",
+      "matricula uninassau"
+    ],
+    "resposta": "Você pode acessar a página da UNINASSAU pelo link:\n\nhttps://www.uninassau.edu.br/",
+    "mostrarOpcao": false
+  },
+  {
+    "id": "vendas-unama",
+    "categoria": "Página de vendas",
+    "titulo": "Página de vendas UNAMA",
+    "perguntas": [
+      "link da unama",
+      "site da unama",
+      "página de vendas unama",
+      "pagina de vendas unama",
+      "quero estudar na unama",
+      "cursos unama",
+      "inscrição unama",
+      "matrícula unama",
+      "matricula unama"
+    ],
+    "resposta": "Você pode acessar a página da UNAMA pelo link:\n\nhttps://www.unama.br/",
+    "mostrarOpcao": false
+  },
+  {
+    "id": "vendas-ung",
+    "categoria": "Página de vendas",
+    "titulo": "Página de vendas UNG",
+    "perguntas": [
+      "link da ung",
+      "site da ung",
+      "página de vendas ung",
+      "pagina de vendas ung",
+      "quero estudar na ung",
+      "cursos ung",
+      "inscrição ung",
+      "matrícula ung",
+      "matricula ung"
+    ],
+    "resposta": "Você pode acessar a página da UNG pelo link:\n\nhttps://www.ung.br/",
+    "mostrarOpcao": false
+  },
+  {
+    "id": "vendas-fael",
+    "categoria": "Página de vendas",
+    "titulo": "Página de vendas FAEL",
+    "perguntas": [
+      "link da fael",
+      "site da fael",
+      "página de vendas fael",
+      "pagina de vendas fael",
+      "quero estudar na fael",
+      "cursos fael",
+      "inscrição fael",
+      "matrícula fael",
+      "matricula fael"
+    ],
+    "resposta": "Você pode acessar a página da FAEL pelo link:\n\nhttps://fael.edu.br/",
+    "mostrarOpcao": false
+  },
+  {
+    "id": "vendas-uninorte",
+    "categoria": "Página de vendas",
+    "titulo": "Página de vendas UNINORTE",
+    "perguntas": [
+      "link da uninorte",
+      "site da uninorte",
+      "página de vendas uninorte",
+      "pagina de vendas uninorte",
+      "quero estudar na uninorte",
+      "cursos uninorte",
+      "inscrição uninorte",
+      "matrícula uninorte",
+      "matricula uninorte"
+    ],
+    "resposta": "Você pode acessar a página da UNINORTE pelo link:\n\nhttps://www.uninorte.digital/",
+    "mostrarOpcao": false
+  },
+  {
+    "id": "tutoria",
+    "categoria": "Tutoria",
+    "titulo": "Falar com a tutoria",
+    "perguntas": [
+      "falar com a tutoria",
+      "tutoria",
+      "mediador acadêmico",
+      "mediadores acadêmicos",
+      "preciso de ajuda",
+      "atendimento acadêmico",
+      "tirar dúvida com atendente",
+      "não encontrei minha dúvida"
+    ],
+    "resposta": "Você pode falar com a tutoria acadêmica pelo WhatsApp. Clique no botão abaixo para ser encaminhado ao atendimento.",
+    "acao": "whatsapp"
+  }
+]
