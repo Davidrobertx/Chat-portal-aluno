@@ -1,0 +1,120 @@
+[
+  {
+    "id": "acesso-portal",
+    "categoria": "Acesso",
+    "titulo": "Como acessar o Portal do Aluno?",
+    "perguntas": [
+      "como acessar o portal do aluno",
+      "onde acesso o portal",
+      "entrar no portal do aluno",
+      "portal do aluno",
+      "acesso ao portal",
+      "não consigo acessar o portal"
+    ],
+    "resposta": "Para acessar o Portal do Aluno, entre no endereço oficial informado pela instituição e utilize seu CPF e a senha cadastrada. Caso seja seu primeiro acesso ou tenha dificuldade para entrar, confira se os dados foram digitados corretamente e tente recuperar a senha pela opção “Esqueci minha senha”."
+  },
+  {
+    "id": "recuperar-senha",
+    "categoria": "Senha",
+    "titulo": "Esqueci minha senha. O que fazer?",
+    "perguntas": [
+      "esqueci minha senha",
+      "recuperar senha",
+      "não lembro minha senha",
+      "senha do portal",
+      "trocar senha",
+      "redefinir senha"
+    ],
+    "resposta": "Na tela de login do Portal do Aluno, clique em “Esqueci minha senha” e siga as orientações para redefinir seu acesso. Caso não consiga concluir a recuperação, fale com a tutoria para receber orientação."
+  },
+  {
+    "id": "acesso-ava",
+    "categoria": "AVA / Ser Connect",
+    "titulo": "Como acessar o AVA / Ser Connect?",
+    "perguntas": [
+      "como acessar o ava",
+      "como acessar o ser connect",
+      "onde encontro o ava",
+      "ambiente virtual",
+      "ser connect",
+      "acessar aulas",
+      "acessar plataforma"
+    ],
+    "resposta": "Após acessar o Portal do Aluno, localize a área de disciplinas ou ambiente de estudos. Nessa área, você poderá acessar o AVA / Ser Connect, onde ficam disponíveis aulas, materiais, atividades, avaliações e avisos acadêmicos."
+  },
+  {
+    "id": "disciplinas",
+    "categoria": "Disciplinas",
+    "titulo": "Onde vejo minhas disciplinas?",
+    "perguntas": [
+      "onde vejo minhas disciplinas",
+      "minhas disciplinas",
+      "disciplinas disponíveis",
+      "não aparece disciplina",
+      "cade minhas disciplinas",
+      "curso não aparece"
+    ],
+    "resposta": "As disciplinas ficam disponíveis no Portal do Aluno, na área de ambiente de estudos ou AVA / Ser Connect. Nessa seção, você poderá visualizar as disciplinas em andamento, conteúdos, avaliações, avisos e materiais complementares."
+  },
+  {
+    "id": "notas",
+    "categoria": "Notas e desempenho",
+    "titulo": "Onde vejo minhas notas?",
+    "perguntas": [
+      "onde vejo minhas notas",
+      "ver notas",
+      "minhas notas",
+      "meu desempenho",
+      "resultado da avaliação",
+      "nota da prova",
+      "nota da av2"
+    ],
+    "resposta": "Você pode consultar suas notas na área de desempenho ou avaliações dentro do Portal do Aluno / AVA. Lá ficam disponíveis informações sobre atividades, avaliações realizadas, pendências e desempenho acadêmico."
+  },
+  {
+    "id": "avaliacoes",
+    "categoria": "Avaliações",
+    "titulo": "Onde acesso minhas avaliações?",
+    "perguntas": [
+      "onde faço avaliação",
+      "onde faço a prova",
+      "como acessar avaliação",
+      "av1",
+      "av2",
+      "af",
+      "prova online",
+      "central de provas"
+    ],
+    "resposta": "As avaliações ficam disponíveis na área de Avaliação do AVA / Ser Connect. Verifique o período de realização, leia as orientações com atenção e acesse a avaliação dentro do prazo informado."
+  },
+  {
+    "id": "biblioteca",
+    "categoria": "Biblioteca",
+    "titulo": "Onde encontro materiais e biblioteca?",
+    "perguntas": [
+      "onde encontro material",
+      "material complementar",
+      "biblioteca",
+      "e-book",
+      "livro digital",
+      "baixar material",
+      "conteúdo da disciplina"
+    ],
+    "resposta": "Os materiais da disciplina podem ser acessados no AVA / Ser Connect, geralmente na área de Conteúdo ou Biblioteca. Nessa seção, você encontra materiais complementares, e-books e outros recursos de apoio aos estudos."
+  },
+  {
+    "id": "tutoria",
+    "categoria": "Tutoria",
+    "titulo": "Quero falar com a tutoria",
+    "perguntas": [
+      "falar com a tutoria",
+      "tutoria",
+      "mediador acadêmico",
+      "preciso de ajuda",
+      "atendimento acadêmico",
+      "tirar dúvida com atendente"
+    ],
+    "resposta": "Você pode falar com a tutoria acadêmica pelo WhatsApp. Clique no botão abaixo para ser encaminhado ao atendimento.",
+    "acao": "whatsapp"
+  }
+]
